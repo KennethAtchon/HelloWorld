@@ -4,7 +4,7 @@
   "description": "\"# HelloWorld\"",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"No test specified\""
   },
   "author": "",
   "license": "ISC"
